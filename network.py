@@ -1,6 +1,6 @@
 import socket
 
-HOST = '192.168.0.13' # input('IP address:')
+HOST = input('IP address:')
 PORT = 12345
 MAXSIZE = 1024
 
