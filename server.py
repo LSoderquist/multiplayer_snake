@@ -3,7 +3,7 @@ import threading
 from random import randint
 from helpers import process_player_data
 
-HOST = '192.168.0.13'
+HOST = input('IP address:')
 PORT = 12345
 MAXSIZE = 1024
 
